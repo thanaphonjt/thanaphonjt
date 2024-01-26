@@ -1,0 +1,3 @@
+- 👋 Hi, I’m thanaphon
+- 👀 I’m interested in Back End Developer
+- 🌱 I’m currently learning Golang
