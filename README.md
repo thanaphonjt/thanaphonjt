@@ -1,1 +1,1 @@
-- 👋 Hi, I’m thanaphon
+- 👋 Hi, I’m Thanaphon
